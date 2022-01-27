@@ -2,7 +2,7 @@
 <h3 align="center">A Student and a passionate developer from India.</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/siddhartha_2345" target="blank"><img src="https://img.shields.io/twitter/follow/siddhartha_2345?logo=twitter&style=for-the-badge" alt="siddhartha_2345" /></a> </p>
