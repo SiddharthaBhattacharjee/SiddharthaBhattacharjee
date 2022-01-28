@@ -36,3 +36,5 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SiddharthaBhattacharjee&theme=nord)
 
+![Metrics](https://metrics.lecoq.io/SiddharthaBhattacharjee?template=classic&config.timezone=Asia%2FCalcutta)
+
