@@ -2,6 +2,8 @@
 <h3 align="center">A Student and a passionate developer from India.</h3>
 
 
+<h3 align="left">My Achievements:</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
