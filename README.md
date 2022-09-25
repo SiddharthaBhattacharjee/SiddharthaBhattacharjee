@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/siddhartha_2345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhartha_2345" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharthabhattacharjee2345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthabhattacharjee2345" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/siddharth-bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="siddharth-bhattacharjee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16950216/siddharth-bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="siddharth-bhattacharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/programmer_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmer_sid" height="30" width="40" /></a>
 </p>
 
