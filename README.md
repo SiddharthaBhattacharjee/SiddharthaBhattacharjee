@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/siddhartha_2345" target="blank"><img src="https://img.shields.io/twitter/follow/siddhartha_2345?logo=twitter&style=for-the-badge" alt="siddhartha_2345" /></a> </p>
 
-- 🔭 I’m currently working on [#100DaysOfCode](https://github.com/SiddharthaBhattacharjee/100Days-of-Code)
+- 🔭 I’m currently working on [#Learning_ReactJS](https://github.com/SiddharthaBhattacharjee/Learning_React)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Python, Java, C, C++, Android Studio, HTML, CSS, JavaScript, MySQL**
 
