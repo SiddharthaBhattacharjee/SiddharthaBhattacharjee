@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/siddhartha_2345" target="blank"><img src="https://img.shields.io/twitter/follow/siddhartha_2345?logo=twitter&style=for-the-badge" alt="siddhartha_2345" /></a> </p>
 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 - 🔭 I’m currently working on [#Learning_ReactJS](https://github.com/SiddharthaBhattacharjee/Learning_React)
 
 - 🌱 I’m currently learning **ReactJS**
