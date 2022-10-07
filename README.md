@@ -47,3 +47,5 @@
 
 ![Metrics](https://metrics.lecoq.io/SiddharthaBhattacharjee?template=classic&config.timezone=Asia%2FCalcutta)
 
+[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
