@@ -1,9 +1,11 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/SiddharthaBhattacharjee)
-<h1 align="center">Hi 👋, I'm Siddhartha Bhattacharjee</h1>
-<h3 align="center">A Student and a passionate developer from India.</h3>
+<h1 align="center">Hi <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Siddhartha Bhattacharjee</h1>
+<h4 align="center"><i>A Student and a passionate developer from India. <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px">
+I am a undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Ramapuram</a>.<br>
+I am constantly striving to improve myself, My goal is to become a better person every day. <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="18px" height="18px"></i></h4>
 
 
-<h3 align="left">My Achievements:</h3>
+<h3 align="left">My Achievements<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px">:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -12,7 +14,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">About Me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px">:</h3>
 
 - 🔭 I’m currently working on [#Learning_ReactJS](https://github.com/SiddharthaBhattacharjee/Learning_React)
 
@@ -24,7 +26,7 @@
 
 - ⚡ Fun fact **I am a gamer too. If you are looking for a gaming buddy👀**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" height="32px">:</h3>
 <p align="left">
 <a href="https://twitter.com/siddhartha_2345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhartha_2345" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharthabhattacharjee2345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthabhattacharjee2345" height="30" width="40" /></a>
