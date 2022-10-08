@@ -49,7 +49,7 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 ![Metrics](https://metrics.lecoq.io/SiddharthaBhattacharjee?template=classic&config.timezone=Asia%2FCalcutta)
 
-<h3 align="left"> 🧿 Badges</h3>
+<h3 align="left"><img src="https://github.com/SiddharthaBhattacharjee/SiddharthaBhattacharjee/blob/main/assets/output-onlinegiftools%20(5).gif" height="30px"> Badges</h3>
 
 [![@siddharthabhatt's Holopin board](https://holopin.io/api/user/board?user=siddharthabhatt)](https://holopin.io/@siddharthabhatt)
 
