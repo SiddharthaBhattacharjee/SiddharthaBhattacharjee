@@ -49,5 +49,9 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 ![Metrics](https://metrics.lecoq.io/SiddharthaBhattacharjee?template=classic&config.timezone=Asia%2FCalcutta)
 
-[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=SiddharthaBhattacharjee&style=flat-square" alt="ProfileViews" /><br>
+
+<!-- 
+[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) 
+-->
 
