@@ -1,5 +1,5 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/SiddharthaBhattacharjee)
-<h1 align="center">Hi <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Siddhartha Bhattacharjee</h1>
+<h1 align="center">Hi <a href="https://github.com/SiddharthaBhattacharjee"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px"></a>, I'm Siddhartha Bhattacharjee</h1>
 <h4 align="center"><i>
 I am a undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM IST</b>, Ramapuram</a>, A Student and a passionate developer from India. <a href="https://www.linkedin.com/in/siddharthabhattacharjee2345/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a><br>
 I am constantly striving to improve myself, My goal is to become a better person every day. <a href="https://twitter.com/Siddhartha_2345"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="18px" height="18px"></a></i></h4>
