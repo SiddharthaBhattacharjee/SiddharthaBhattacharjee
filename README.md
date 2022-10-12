@@ -12,7 +12,7 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 <p align="left"> <a href="https://twitter.com/siddhartha_2345" target="blank"><img src="https://img.shields.io/twitter/follow/siddhartha_2345?logo=twitter&style=for-the-badge" alt="siddhartha_2345" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<a href="https://github.com/SiddharthaBhattacharjee?tab=repositories"><img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
 
 <h3 align="left"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"> About Me:</h3>
 
