@@ -20,7 +20,7 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Python, Java, C, C++, Android Studio, HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **Android Development, Web Development, Game Development**
 
 - 📫 How to reach me **siddharthabhatt2345@gmail.com**
 
