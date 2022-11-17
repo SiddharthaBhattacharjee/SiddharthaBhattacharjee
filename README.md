@@ -55,6 +55,6 @@ I am constantly striving to improve myself, My goal is to become a better person
 <a href="https://github.com/SiddharthaBhattacharjee"><img src="https://komarev.com/ghpvc/?username=SiddharthaBhattacharjee&style=flat-square" alt="ProfileViews" /></a><br>
 
 <!-- 
-[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) . . . . .
+[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) . . . . . .
 -->
 
