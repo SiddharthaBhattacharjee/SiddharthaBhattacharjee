@@ -44,7 +44,7 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SiddharthaBhattacharjee&theme=nord)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SiddharthaBhattacharjee&theme=nord)
+[![Siddhartha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SiddharthaBhattacharjee&theme=nord)](https://github.com/SiddharthaBhattacharjee)
 
 ![Metrics](https://metrics.lecoq.io/SiddharthaBhattacharjee?template=classic&config.timezone=Asia%2FCalcutta)
 
