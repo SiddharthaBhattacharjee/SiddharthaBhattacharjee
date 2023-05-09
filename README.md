@@ -17,9 +17,9 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 - 🔭 I’m currently working on [#30Days Of Productivity](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Android Development, Web Development, Game Development**
+- 💬 Ask me about **Android Development, Web Development, Game Development, BlockChain, Smartcontract development**
 
 - 📫 How to reach me **siddharthabhatt2345@gmail.com**
 
