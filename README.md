@@ -15,9 +15,9 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 <h3 align="left"><a href="https://www.linkedin.com/in/siddharthabhattacharjee2345/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a> About Me:</h3>
 
-- 🔭 I’m currently working on [#30Days Of Productivity](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity)
+- 🔭 I’m currently working on [ResqAI](https://github.com/SiddharthaBhattacharjee/WarpSpeed2023AI_TakShak-Craftsman)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning [DSA in Python](https://github.com/SiddharthaBhattacharjee/DSA_Python)
 
 - 💬 Ask me about **Android Development, Web Development, Game Development, BlockChain, Smartcontract development**
 
