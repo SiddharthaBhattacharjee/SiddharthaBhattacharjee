@@ -7,7 +7,7 @@ I am constantly striving to improve myself, My goal is to become a better person
 
 <h3 align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"></a> My Achievements:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
+![](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord&no-frame=false&no-bg=false&margin-w=3&margin-h=3)
 
 <p align="left"> <a href="https://twitter.com/siddhartha_2345" target="blank"><img src="https://img.shields.io/twitter/follow/siddhartha_2345?logo=twitter&style=for-the-badge" alt="siddhartha_2345" /></a> </p>
 
